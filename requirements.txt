@@ -1,2 +1,5 @@
-pytest
+ipykernel
 pandas
+pytest
+numpy>=1.24
+scikit-learn==1.6.1
